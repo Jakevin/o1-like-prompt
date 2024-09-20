@@ -6,6 +6,7 @@ Refer to https://github.com/bklieger-groq/g1 code to switch to the implementatio
 You Can Try the Below 
 https://jakevin.github.io/azure-tts/o1-like/index.html
 
+<img src="https://github.com/Jakevin/o1-like-prompt/blob/main/%E6%88%AA%E5%9C%96%202024-09-20%20%E6%99%9A%E4%B8%8A7.00.29.png" alt="图片alt" title="图片title" width="500px">
 
 
 ```
@@ -52,6 +53,9 @@ def start():
 
 你可以在下面的網站上試試
 https://jakevin.github.io/azure-tts/o1-like/index.html
+
+<img src="https://github.com/Jakevin/o1-like-prompt/blob/main/%E6%88%AA%E5%9C%96%202024-09-20%20%E4%B8%8B%E5%8D%886.59.39.png" alt="图片alt" title="图片title" width="500px">
+
 
 ```
 def system-role()
